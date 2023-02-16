@@ -10,3 +10,6 @@ git push -u origin main
 git add DESARROLLO\ DE\ ACTIVIDADES.txt 
 git commit -m "segunto commit"
 git push
+
+Direccion del git
+https://github.com/computation13/CreateGit.git
