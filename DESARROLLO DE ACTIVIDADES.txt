@@ -6,3 +6,7 @@ git commit -m "primer commit"
 git checkout -B main
 git remote add origin https://github.com/computation13/CreateGit.git
 git push -u origin main
+
+git add DESARROLLO\ DE\ ACTIVIDADES.txt 
+git commit -m "segunto commit"
+git push
